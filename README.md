@@ -31,8 +31,7 @@ Go-Cart is a captivating e-commerce app UI built using Flutter. This repository 
 Here are some screenshots of the Go-Cart E-Commerce App UI:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://i.ibb.co/sCJ5B0K/Screenshot-1692098459.png"
-  alt="Screenshot 1" width="40%">
+  <img  src="https://imageupload.io/ib/MWvkFykI2kGwVnI_1692099778.png" alt="Screenshot_1692098459.png" width="40%"/>
 
   <img src="https://www.linkpicture.com/q/Screenshot_1692098493.png" alt="Screenshot 2" width="40%">
 </div>
